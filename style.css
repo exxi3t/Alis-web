@@ -440,6 +440,7 @@ body {
 }
 .fixing-bug{
   padding-left: 90px;
+  margin: 0  0 40px;
 }
 /*my animation that i used them in all of my intro imgs with diffrent animation delay*/
 @keyframes my-animation {
@@ -750,5 +751,6 @@ body {
 @media screen and (min-width: 500px){
   .fixing-bug{
     padding-left: 0;
+    margin: 0;
   }
 }
