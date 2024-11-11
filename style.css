@@ -443,7 +443,7 @@ body {
   margin: 0  0 40px;
 }
 .fixing-bug2{
-  margin-right: px;
+  margin-right: -0px;
 }
 /*my animation that i used them in all of my intro imgs with diffrent animation delay*/
 @keyframes my-animation {
